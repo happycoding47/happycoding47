@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Liang 
-- Snake game 
+ 👋 Hi, I’m Liang. Welcome to my Github!
+
 
 <!---
 happycoding47/happycoding47 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
