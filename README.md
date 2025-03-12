@@ -1,4 +1,4 @@
- 👋 Hi, I’m Liang. Welcome to my Github!
+ 👋 Hi, Welcome to my Github!
 
 
 <!---
